@@ -1,9 +1,8 @@
-# 💖 Anniversary 2.0 Website
+# 💖 Anniversary 
 
-Celebrate love in style with Anniversary 2.0 - a beautifully crafted website experience. With elegant UI, romantic animations, and personalized messages, it transforms a simple ‘Happy Anniversary’ into a heartfelt and unforgettable moment✨❤️
+Celebrate love in style with Anniversary  - a beautifully crafted website experience. With elegant UI, romantic animations, and personalized messages, it transforms a simple ‘Happy Anniversary’ into a heartfelt and unforgettable moment✨❤️
 
-> ⚠️ This is a **free version**, so some features like background music, game screen, some animations are not included. Premium version includes all features.
-> You can **buy the premium code** from my store [here](https://www.anujbuilds.in/products/anniversary-v2).
+
 
 ---
 
@@ -21,8 +20,7 @@ Celebrate love in style with Anniversary 2.0 - a beautifully crafted website exp
 To run this project locally, follow these steps:
 
 ```bash
-# Clone the repository
-git clone https://github.com/Anuj579/anniversary-site-v2.git
+
 
 # Navigate into the folder
 cd anniversary-site-v2
@@ -38,28 +36,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 ---
 
-## 🔗 Social Media
 
-Follow me for more emotional surprise websites and creative dev content:
-
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
-
----
-
-## ⭐ Support
-
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
-Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
-
-✨ If you'd like to support my work directly, you can donate via UPI:  
-**anujbuilds.wallet@phonepe**  
-Even a small contribution helps me keep creating cute, emotional projects 💖
-
----
 
 ## ⚠️ License & Usage
 
@@ -69,8 +46,3 @@ Even a small contribution helps me keep creating cute, emotional projects 💖
 - Using this free code publicly is **prohibited**.
 - Any violation will be considered **copyright infringement**, and I reserve the right to report it.
 
-### Premium Code
-- You can **buy the premium code** from my store [here](https://www.anujbuilds.in/products/anniversary-v2)
-- The premium code can be used publicly **only if proper credit is given**:  
-  `Website idea & code by @anujbuilds`  
-- Without credit or without explicit permission, public use is **not allowed**.
